@@ -30,7 +30,7 @@ namespace OSDataAccessLibrary.DataServices
         public async Task<bool> RegisteredDevice(string address, int userid)
         {
             DynamicParameters p = new();
-            p.Add("@address", address);
+            p.Add("@devid", address);
             p.Add("@userid", userid);
 
             string sql = "dbo.spDeviceRegistered";
