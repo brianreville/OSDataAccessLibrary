@@ -12,7 +12,7 @@ For the purposed of the project the following was implmented :
 ### Data Services
 
 For this 3 Class and assocaiated Interfacaes was Implemented
-1. SQL Data Acesss (In the case of our project the DB of Choice was an Azure MQ Sql Server Database) The connection string for this called comes from the appconfig file of the project that is utilising the data access library.This class can be altered for a variety of database nby changing some minor immplemenations and references to the type of database desired. For the purpose of the project the following crud operations were implmented
+1. SQL Data Acesss (In the case of our project the DB of Choice was an Azure MQ Sql Server Database) The connection string for this called comes from the appconfig file of the project that is utilising the data access library.This class can be copeid and altered with a an inteface implementaion for a variety of database by changing some minor immplemenations and references to the type of database desired. Thus allowing the project to grow an evolve, For the purpose of the project the following crud operations were implmented
       1. Load A List of Generic Type T allowing for the passing of dynamic parameters utilising stored procedures
       2. Get a single Object of Generic Type T allowing for the passing of dynamic parameters utilsing stored procedures
       3. Saving Data Using a inline sql statement, passing a list of paraeteres
