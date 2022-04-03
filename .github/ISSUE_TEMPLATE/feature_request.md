@@ -1,6 +1,6 @@
 ---
 name: Feature request
-about: Suggest an idea for this project
+about: Additional Database Handler Interface and Class Implementation
 title: ''
 labels: ''
 assignees: ''
