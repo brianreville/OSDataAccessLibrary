@@ -1,3 +1,7 @@
+![GitHub forks](https://img.shields.io/github/forks/brianreville/OSDataAccessLibrary?style=for-the-badge)
+![GitHub issues](https://img.shields.io/github/issues/brianreville/OSDataAccessLibrary?style=for-the-badge)
+![GitHub stars](https://img.shields.io/github/stars/brianreville/OSDataAccessLibrary?style=for-the-badge)
+
 # OSDataAccessLibrary
 OS Data Access Library
 
