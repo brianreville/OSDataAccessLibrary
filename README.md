@@ -50,3 +50,14 @@ Please see associated repository
 ### Web API Unit Testing Project
 Please see associated repository
 [OS Book Review Tests  ](https://github.com/brianreville/OSBookReviewTests)
+
+### Useful Links
+
+Tim Coery Dapper Tutorial on Data Access Layer
+[Tim Coery Youtube video ](https://www.youtube.com/watch?v=dwMFg6uxQ0I) 
+
+Dapper Website
+[Learn Dapper](https://www.learndapper.com/) 
+
+Creating a Data Access Layer using Microsofts ORM Entity Framework.
+[Microsoft'S DAL Tutorial](https://docs.microsoft.com/en-us/aspnet/web-forms/overview/data-access/introduction/creating-a-data-access-layer-cs) 
