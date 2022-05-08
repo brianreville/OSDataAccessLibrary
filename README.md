@@ -34,3 +34,19 @@ For this 3 Class and assocaiated Interfacaes was Implemented
 
 ### Data Models
 For this project the various models expected to be returned from stored procuders were defined in the model folder. These models can be added or altered as required to suit the program.
+
+## Main Repository for Open Source College Project is the Web API Project
+
+### Web API 
+Please see associated repository
+[OS Book Review Web API  ](https://github.com/brianreville/OSBookReviewWebAPI)
+
+### .Net MAUI
+
+Please see associated repository
+[OS Book Review .NET MAUI App ](https://github.com/brianreville/OSBookReviewMAUI)
+
+
+### Web API Unit Testing Project
+Please see associated repository
+[OS Book Review Tests  ](https://github.com/brianreville/OSBookReviewTests)
